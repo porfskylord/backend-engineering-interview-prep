@@ -1,4 +1,4 @@
-# KAFKA
+# Apache Kafka
 
 ## Kafka Fundamentals
 

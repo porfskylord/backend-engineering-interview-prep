@@ -1,4 +1,4 @@
-# JAVA (Core java 8+)
+# Java Fundamentals & Advanced Concepts
 
 ## Memory Management & JVM
 

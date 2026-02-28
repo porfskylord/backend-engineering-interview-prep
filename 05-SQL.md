@@ -1,4 +1,4 @@
-# SQL (Structured Query Language)
+# Database & SQL
 
 ## SQL Basics
 

@@ -1,4 +1,4 @@
-# REST API
+# REST API Design
 
 ## REST API Basics
 

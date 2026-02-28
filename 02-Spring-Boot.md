@@ -1,4 +1,4 @@
-# SPRING BOOT
+# Spring Boot Framework
 
 ## Spring Boot Basics
 

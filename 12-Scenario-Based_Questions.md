@@ -1,4 +1,4 @@
-# SCENARIO-BASED QUESTIONS
+# Real-world Scenarios
 
 ## System Design & Architecture Scenarios
 

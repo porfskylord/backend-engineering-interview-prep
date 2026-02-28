@@ -1,4 +1,4 @@
-# JPA (Java Persistence API)
+# Java Persistence API
 
 ## JPA Basics
 

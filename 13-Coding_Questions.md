@@ -1,4 +1,4 @@
-# CODING QUESTIONS JAVA DEVELOPER INTERVIEW
+# Programming Exercises
 
 ## Java Core & Basics
 

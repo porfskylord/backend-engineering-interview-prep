@@ -1,4 +1,4 @@
-# GIT
+# Version Control
 
 ## Git Basics
 

@@ -1,4 +1,4 @@
-# REDIS
+# Redis Data Structures
 
 ## Redis Fundamentals
 
