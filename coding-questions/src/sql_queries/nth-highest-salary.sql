@@ -13,4 +13,9 @@ INSERT INTO Employee (EmpID, EmpName, Salary) VALUES
 (7, 'Frank',  90000);
 
 
-select * from employee e1 join employee e2 on e1.salary = e2.salary and e1.empid <> e2.empid;
+select distinct salary from (select salary,DENSE_RANK() over (order by salary desc) as rowno from employee) x where rowno = 2;
+
+
+
+
+
