@@ -1,0 +1,33 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# JVM crash logs
+hs_err_pid*
+
+# Temporary files
+*.tmp
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files (optional but common)
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Output folders (if you manually create one)
+bin/
+out/
